@@ -12,7 +12,7 @@
   <div class="card-body">
     <p class="card-text">Contact : 089613187474</p>
     <p class="card-text">Email : muhamadarifar10@gmail.com</p>
-    <p class="card-text">Instagram : muhamadarif5 </p>
+    <p class="card-text">Instagram : muhamadarif12 </p>
 
   </div>
 </div>
